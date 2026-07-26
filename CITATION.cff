@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: hermes-blog
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Daniel
+    family-names: Agrici
+    alias: AgriciDaniel
+repository-code: "https://github.com/AgriciDaniel/claude-blog"
+license: MIT
+version: 2.1.1
+date-released: "2026-07-23"
+keywords:
+  - hermes-agent
+  - blog
+  - seo
+  - geo
+  - aeo
+  - ai-citations
+  - content-optimization
+  - e-e-a-t
+  - skill
+  - plugin
+  - mdx
+  - wordpress
+  - multilingual
+  - hreflang
+  - flow-framework
+  - discourse-research
